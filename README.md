@@ -1,5 +1,3 @@
-# Frontend Mentor
+# Frontend Mentor - Challenge 5(Easy)
 
-Task 4 - Level(Easy)
-
-A component built with React and Tailwind CSS
+A product preview card component built with React + Vite and Tailwind CSS
