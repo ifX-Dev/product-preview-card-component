@@ -1,1 +1,16 @@
 @import "tailwindcss";
+
+@layer utilities {
+  .montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+  }
+  .fraunces {
+    font-family: "Fraunces", serif;
+    font-weight: 900;
+  }
+}
+
+@theme {
+  --breakpoint-xs: 375px;
+}
